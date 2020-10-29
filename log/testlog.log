@@ -232,3 +232,55 @@
 2020-10-29 22:54:41,685 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
 2020-10-29 22:54:41,786 - eSauceLab-Demo -INFO - Entered password :secret_sauce
 2020-10-29 22:54:41,857 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:07:22,424 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:07:22,513 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:07:22,573 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:08:10,038 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:08:10,145 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:08:10,213 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:09:36,053 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:09:36,141 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:09:36,210 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:09:36,242 - eSauceLab-Demo -INFO - error message is matched and test is passed 
+2020-10-29 23:13:48,792 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:13:48,951 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:13:48,996 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:13:49,090 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:14:02,760 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:15:29,933 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:15:30,083 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:15:30,129 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:15:30,211 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:15:45,469 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:18:04,630 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:18:04,842 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:18:04,891 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:18:04,964 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:18:13,514 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:22:24,739 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:22:24,841 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:22:24,907 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:22:24,938 - eSauceLab-Demo -INFO - error message is matched and test is passed 
+2020-10-29 23:28:32,979 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:28:33,081 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:28:33,146 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:28:33,191 - eSauceLab-Demo -INFO - error message is matched and test is passed 
+2020-10-29 23:29:46,400 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:29:46,500 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:29:46,557 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:29:46,586 - eSauceLab-Demo -INFO - error message is matched and test is passed 
+2020-10-29 23:30:40,621 - eSauceLab-Demo -INFO - Url is  open sucessfully ...https://www.saucedemo.com/index.html
+2020-10-29 23:30:43,832 - eSauceLab-Demo -INFO - Page title is matched successfully and login test is passed.Swag Labs
+2020-10-29 23:30:43,845 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:30:44,221 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:31:36,685 - eSauceLab-Demo -INFO - Url is  open sucessfully ...https://www.saucedemo.com/index.html
+2020-10-29 23:31:47,361 - eSauceLab-Demo -INFO - Page title is matched successfully and login test is passed.Swag Labs
+2020-10-29 23:31:55,060 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:31:55,144 - eSauceLab-Demo -INFO - Entered user name :standard_user
+2020-10-29 23:31:55,217 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:32:04,913 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:32:04,932 - eSauceLab-Demo -INFO - Page title is matched successfully and login test is passed.Swag Labs
+2020-10-29 23:32:11,910 - eSauceLab-Demo -INFO - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-29 23:32:12,002 - eSauceLab-Demo -INFO - Entered password :secret_sauce
+2020-10-29 23:32:12,067 - eSauceLab-Demo -INFO - Submit button clicked ....
+2020-10-29 23:32:12,096 - eSauceLab-Demo -INFO - error message is matched and test is passed 

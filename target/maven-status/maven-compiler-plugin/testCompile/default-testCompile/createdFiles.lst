@@ -1,6 +1,7 @@
-com\eNetBanking\testCases\LoginScenario\TC_LoginTest_002.class
 com\eNetBanking\utilites\Reporting.class
 com\eNetBanking\baseClass\BaseClass.class
-com\eNetBanking\testCases\LoginScenario\TC_LoginTest_001.class
 com\eNetBanking\pageObjects\LoginPage.class
+com\eNetBanking\testCases\LoginScenario\TC_LoginTest_002.class
+com\eNetBanking\testCases\LoginScenario\TC_LoginTest_003.class
+com\eNetBanking\testCases\LoginScenario\TC_LoginTest_001.class
 com\eNetBanking\utilites\ReadConfig.class
