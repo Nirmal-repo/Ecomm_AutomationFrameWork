@@ -284,3 +284,16 @@
 2020-10-29 23:32:12,002 [main] INFO eSauceLab-Demo - Entered password :secret_sauce
 2020-10-29 23:32:12,067 [main] INFO eSauceLab-Demo - Submit button clicked ....
 2020-10-29 23:32:12,096 [main] INFO eSauceLab-Demo - error message is matched and test is passed 
+2020-10-30 00:00:03,839 [main] INFO eSauceLab-Demo - Url is  open sucessfully ...https://www.saucedemo.com/index.html
+2020-10-30 00:00:08,219 [main] INFO eSauceLab-Demo - Page title is matched successfully and login test is passed.Swag Labs
+2020-10-30 00:00:14,924 [main] INFO eSauceLab-Demo - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-30 00:00:15,008 [main] INFO eSauceLab-Demo - Entered user name :standard_user
+2020-10-30 00:00:15,082 [main] INFO eSauceLab-Demo - Entered password :secret_sauce
+2020-10-30 00:00:16,692 [main] INFO eSauceLab-Demo - Submit button clicked ....
+2020-10-30 00:00:16,708 [main] INFO eSauceLab-Demo - Page title is matched successfully and login test is passed.Swag Labs
+2020-10-30 00:00:23,301 [main] INFO eSauceLab-Demo - Url is open sucessfullyhttps://www.saucedemo.com/index.html
+2020-10-30 00:00:23,389 [main] INFO eSauceLab-Demo - Entered password :secret_sauce
+2020-10-30 00:00:23,445 [main] INFO eSauceLab-Demo - Submit button clicked ....
+2020-10-30 00:00:23,472 [main] INFO eSauceLab-Demo - error message is matched and test is passed 
+2020-10-30 00:00:30,653 [main] INFO eSauceLab-Demo - Url is  open sucessfully ...https://www.saucedemo.com/index.html
+2020-10-30 00:00:33,475 [main] INFO eSauceLab-Demo - Page title is matched successfully and login test is passed.Swag Labs
