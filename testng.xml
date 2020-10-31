@@ -8,9 +8,9 @@
     <test name ="SauceLab Test">
         <parameter name="browser" value="chrome" />
         <classes>
-            <class name ="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_001" />
-            <class name ="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_002" />
-            <class name ="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003" />
+          <class name ="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_001" />
+          <class name ="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_002" />
+           <class name ="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003" />
             <class name ="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_004" />
         </classes>
     </test>

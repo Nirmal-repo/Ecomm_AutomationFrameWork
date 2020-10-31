@@ -21,6 +21,7 @@ public class TC_LoginTest_003 extends BaseClass {
         logger.info("Entered password :"+passWord);
         lp.clickSubmit();
         logger.info("Submit button clicked ....");
+        Thread.sleep(5000);
 
        if(lp.getErrorMessage().contains("Username is required")){
            Assert.assertTrue(true);

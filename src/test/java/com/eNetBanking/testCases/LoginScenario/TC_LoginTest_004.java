@@ -10,7 +10,7 @@ public class TC_LoginTest_004 extends BaseClass {
 
 
     @Test
-    public void VerifyLoginTest(){
+    public void VerifyLoginTest() throws InterruptedException {
         LoginPage lp = new LoginPage(driver);
         ProductListPage plp = new ProductListPage(driver);
         logger.info("Url is  open sucessfully ..."+baseUrl);
@@ -24,6 +24,7 @@ public class TC_LoginTest_004 extends BaseClass {
                     "");
         }
 
+        Thread.sleep(5000);
         plp.clickMenuBar();
         plp.clickLogOutLink();
 
