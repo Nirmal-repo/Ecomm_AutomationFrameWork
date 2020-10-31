@@ -4,19 +4,19 @@ stages{
    stage ('Build'){
     steps{
        echo "Declarative pipe line ---Building the project ....."
-       bat "mvn clean"
+
     }
    }
    stage ('Test'){
        steps{
           echo "Declarative pipe line ---Testing the project ....."
-          bat "mvn test"
+
        }
       }
       stage ('Deploy'){
           steps{
              echo "Declarative pipe line ---Deploying the project ....."
-             bat "mvn compile"
+
           }
          }
          stage ('Release'){
