@@ -10,6 +10,7 @@ stages{
    stage ('Test'){
        steps{
           echo "Declarative pipe line ---Testing the project ....."
+          sh "mvn clean test"
 
        }
       }
