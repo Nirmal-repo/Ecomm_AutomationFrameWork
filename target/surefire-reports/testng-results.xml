@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="eNetBanking" duration-ms="8665" started-at="2020-10-29T17:58:25Z" finished-at="2020-10-29T17:58:33Z">
+  <suite name="eNetBanking" duration-ms="218883" started-at="2020-10-31T17:59:52Z" finished-at="2020-10-31T18:03:30Z">
     <groups>
     </groups>
-    <test name="SauceLab Test" duration-ms="8665" started-at="2020-10-29T17:58:25Z" finished-at="2020-10-29T17:58:33Z">
-      <class name="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003@531be3c5]" name="setUp" is-config="true" duration-ms="7625" started-at="2020-10-29T17:58:25Z" finished-at="2020-10-29T17:58:32Z">
+    <test name="SauceLab Test" duration-ms="218883" started-at="2020-10-31T17:59:52Z" finished-at="2020-10-31T18:03:30Z">
+      <class name="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_002">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_002@2096442d]" name="setUp" is-config="true" duration-ms="9499" started-at="2020-10-31T18:01:17Z" finished-at="2020-10-31T18:01:26Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,74 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="TestLoginFailedWithoutUserId()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003@531be3c5]" name="TestLoginFailedWithoutUserId" duration-ms="244" started-at="2020-10-29T17:58:32Z" description="Verify an error message when user id not enter  in login window." finished-at="2020-10-29T17:58:33Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_002@2096442d]" name="loginTest" duration-ms="83508" started-at="2020-10-31T18:01:26Z" finished-at="2020-10-31T18:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_002@2096442d]" name="tearDown" is-config="true" duration-ms="649" started-at="2020-10-31T18:02:50Z" finished-at="2020-10-31T18:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eNetBanking.testCases.LoginScenario.TC_LoginTest_002 -->
+      <class name="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_001@2c9f9fb0]" name="setUp" is-config="true" duration-ms="12163" started-at="2020-10-31T17:59:52Z" finished-at="2020-10-31T18:00:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyLoginTest()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_001@2c9f9fb0]" name="VerifyLoginTest" duration-ms="72404" started-at="2020-10-31T18:00:04Z" finished-at="2020-10-31T18:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_001@2c9f9fb0]" name="tearDown" is-config="true" duration-ms="623" started-at="2020-10-31T18:01:16Z" finished-at="2020-10-31T18:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eNetBanking.testCases.LoginScenario.TC_LoginTest_001 -->
+      <class name="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_004">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_004@234bef66]" name="setUp" is-config="true" duration-ms="8177" started-at="2020-10-31T18:03:03Z" finished-at="2020-10-31T18:03:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyLoginTest()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_004@234bef66]" name="VerifyLoginTest" duration-ms="18482" started-at="2020-10-31T18:03:11Z" finished-at="2020-10-31T18:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_004@234bef66]" name="tearDown" is-config="true" duration-ms="618" started-at="2020-10-31T18:03:30Z" finished-at="2020-10-31T18:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eNetBanking.testCases.LoginScenario.TC_LoginTest_004 -->
+      <class name="com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003@9f70c54]" name="setUp" is-config="true" duration-ms="6840" started-at="2020-10-31T18:02:51Z" finished-at="2020-10-31T18:02:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TestLoginFailedWithoutUserId()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003@9f70c54]" name="TestLoginFailedWithoutUserId" duration-ms="5163" started-at="2020-10-31T18:02:57Z" description="Verify an error message when user id not enter  in login window." finished-at="2020-10-31T18:03:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestLoginFailedWithoutUserId -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003@531be3c5]" name="tearDown" is-config="true" duration-ms="630" started-at="2020-10-29T17:58:33Z" finished-at="2020-10-29T17:58:33Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eNetBanking.testCases.LoginScenario.TC_LoginTest_003@9f70c54]" name="tearDown" is-config="true" duration-ms="599" started-at="2020-10-31T18:03:03Z" finished-at="2020-10-31T18:03:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
